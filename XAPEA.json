@@ -32,8 +32,8 @@
     }
 },
 {
-    "asset": "XAPEARLYACCESS",
-    "description": "Purchasable for Authparty Early Access/Rewards",
+    "asset": "XAPEA",
+    "description": "Purchasable Authparty Early Access/Rewards",
     "image": "https://raw.githubusercontent.com/Authpartyio/authpartyio.github.io/master/Authparty%20BG.PNG",
     "pgpsig": "25BF083585396AC3A6BAAEF53B5865F45538D4A4",
     "website": "http://authparty.io"
